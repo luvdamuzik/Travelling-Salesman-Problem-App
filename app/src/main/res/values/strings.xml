@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Traveling Salesman Problem</string>
+    <string name="about_text">Aplikaciju razvili: Rijad Mutapčić i Omar Omerhodžić\n\nSponsor: Discord</string>
+    <string name="rules_text">Problem trgovačkog putnika postavlja sljedeće pitanje: S obzirom na spisak gradova i daljina između svakog para gradova, koji je najkraći mogući put da se posjeti svaki grad tačno jednom i vrati se u početni grad?   To je NP-težak problem kombinatorne optimizacije važan u Operacionim istraživanjima i Teoretskom računarstvu.</string>
+    <string name="rules">Problem</string>
+    <string name="about">O nama</string>
+    <string name="submit_button">Pošalji</string>
+    <string name="search_title">Pretraži</string>
+    <string name="search_location">Unesite grad</string>
+    <string name="search">Dodaj</string>
+    <string name="google_maps_key">AIzaSyB5zVH4ERGCueIagft2o9615gHIxRl2Khk</string>
+    <string name="plus">Plus</string>
+    <string name="delete">Obriši</string>
+    <string name="detalji">Detalji</string>
+    <string name="apiKeyPlaces">AIzaSyCR5ekzUwmqpS0aUbvIwCY7VBBS4uI9KPo</string>
+    <string name="kreni">Kreni</string>
+</resources>
