@@ -9,8 +9,8 @@
     <string name="search_location">City</string>
     <string name="search">Add</string>
     <string name="plus">Plus</string>
-    <string name="google_maps_key">AIzaSyB5zVH4ERGCueIagft2o9615gHIxRl2Khk</string>
-    <string name="apiKeyPlaces">" AIzaSyCR5ekzUwmqpS0aUbvIwCY7VBBS4uI9KPo"</string>
+    <string name="google_maps_key"></string>
+    <string name="apiKeyPlaces">""</string>
     <string name="detalji">Details</string>
     <string name="delete">Delete</string>
     <string name="rules_text">The Traveling Salesman Problem tries to answer the following question: Given the list of cities and the distance between each pair of cities, what is the shortest possible way to visit each city exactly once and return to the starting city? This is an NP-difficult problem of combinatorial optimization important in Operations Research and Theoretical Computing.</string>
