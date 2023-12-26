@@ -8,10 +8,10 @@
     <string name="search_title">Pretraži</string>
     <string name="search_location">Unesite grad</string>
     <string name="search">Dodaj</string>
-    <string name="google_maps_key">AIzaSyB5zVH4ERGCueIagft2o9615gHIxRl2Khk</string>
+    <string name="google_maps_key"></string>
     <string name="plus">Plus</string>
     <string name="delete">Obriši</string>
     <string name="detalji">Detalji</string>
-    <string name="apiKeyPlaces">AIzaSyCR5ekzUwmqpS0aUbvIwCY7VBBS4uI9KPo</string>
+    <string name="apiKeyPlaces"></string>
     <string name="kreni">Kreni</string>
 </resources>
